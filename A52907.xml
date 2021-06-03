@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A New creed consisting of XII articles for every true Protestant and loyall subject within the three kingdomes of England, Scotland and Ireland, to make profession of : in manner and forme following.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52907</idno><idno type="EEBO-CITATION">12624137</idno>
+  <idno type="VID">64620</idno>
+  <idno type="EEBO-PROQUEST">2240990393</idno>
+  
+            <idno type="STC">Wing N603</idno>
+            <idno type="STC">ESTC R32308</idno>
+            <idno type="OCLC">12624137</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A52907)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64620)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1532:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A New creed consisting of XII articles for every true Protestant and loyall subject within the three kingdomes of England, Scotland and Ireland, to make profession of : in manner and forme following.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: faded with print show-through.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Loyalty oaths.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64620:1"/>
+            <pb facs="tcp:64620:1"/>
+            <p>A NEW Creed.</p>
+            <p>Consisting of XII. ARTICLES for every true Prote<g ref="char:EOLhyphen"/>stant and Loyall Subject within the three Kingdomes of England, Scotland and Ireland to make Profession of.</p>
+            <p>In manner and forme following.</p>
+            <p>Printed 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:64620:2"/>
+            <pb n="3" facs="tcp:64620:2"/>
+            <head>A NEW CREED.</head>
+            <div n="1" type="article">
+               <head>ARTICLE. I.</head>
+               <p>
+                  <seg rend="decorInit">I</seg> Doe be<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eeve King CHARLES to be my undoubted Soveraigne, and that by hereditary succession, the three Crownes of England, Scotland, and Ireland are by proper right entail'd on y upon him and his Posterity, and that no sub<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>unary Power, by what law, pre<g ref="char:EOLhyphen"/>tence, interest, clame or title soever can divest him of any part of that right power, authority, and honour naturally annexed to his Royall Person, without violation of the Lawes of Nature, Reason, Con<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cience &amp; Religion; withou the extirpation of the Nation<g ref="char:EOLhyphen"/>all and sundamentall Lawes (an act of highest treason) being the onely ligaments, and sinnewes of this Kingdome; and the most horrid breach of Protestations, Oaths and Covenants; and that no person or persons, of what degree or quality soever, m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y encroach upon him, or any thing duely appertaining to him, without incurring for every <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uch act or acts, a just cen<g ref="char:EOLhyphen"/>sure and conv<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ction of Theft, Treason, and Rebellion.</p>
+               <p>Second y, I doe be<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eeve K<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng CHARLES to have more grace in his hear, and more Wit in his litt<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e fing<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r, then the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e is in all the hearts, and the whole body of the Par<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iament now sitting at Westminster; and though just J<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>alousies and Fe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="4" facs="tcp:64620:3"/> made him to desert his Parliament, yet I beleeve they could never make him decline his Principles; and I doe confidently presume that that Dagon to which the Goliahs and Philistins of this Kingdom have these seven yeers fall'n down and wor<g ref="char:EOLhyphen"/>ship't, will ere long doe homage to that Royall Arke (Mer<g ref="char:EOLhyphen"/>cy-seat, and our Israels glory, canopi'd with Cherubims wings) in a headlesse tribute, too slight a recompence for trea<g ref="char:EOLhyphen"/>son and Idolatry.</p>
+               <p>Thirdly I doe beleeve, that King CHARLES hath suffer<g ref="char:EOLhyphen"/>ed more then any Prince since the land was first a Monarchy, and though his enemies have conquered his Person, yet his Spirit is invincible; so that though over-com'd, he still re<g ref="char:EOLhyphen"/>maines a Conquerer. I beleeve he needed no other honour to his combates, but the equity of his quarrell, and the good<g ref="char:EOLhyphen"/>nesse of his cause; which though the dull-ey'd Multitude could not then behold; yet now they have got Spectacles, they di<g ref="char:EOLhyphen"/>scerne him (though at a distance yet) triumphing in a blood<g ref="char:EOLhyphen"/>lesse victory.</p>
+            </div>
+            <div n="2" type="article">
+               <head>ART. II.</head>
+               <p>I doe beleeue, That those whom God hath joyn'd toge<g ref="char:EOLhyphen"/>ther, no man ought to separate, and that Queen MARY the lawfull Spouse of our dread Soveraigne, being unlawfully ba<g ref="char:EOLhyphen"/>nished &amp; disserted from the comfortable fruition of her Roy<g ref="char:EOLhyphen"/>all Consort, is flat opposition to the Lawes of God, and con<g ref="char:EOLhyphen"/>sequently rebellion against God himself, &amp; that the Parliament have endeavoured as much as in them lyeth, of an honest and vertuous woman, to make her an arrant whore; who but Par<g ref="char:EOLhyphen"/>liament men would doe such things? moreover I beleeve that to expell Papacy, which is but one faction, and entertaine, and encourage many, to drive out Episcopacie, and bring in liberty, to pu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l downe Monarchy, and set up Aristocracie, is the evidence of self-ends, hypocriticall, Diabolicall.</p>
+            </div>
+            <div n="3" type="article">
+               <pb n="5" facs="tcp:64620:3"/>
+               <head>ART. III.</head>
+               <p>I beleeve, That the Parliament conven'd by Royall autho<g ref="char:EOLhyphen"/>rity. Anno 1640. was a lawfull and con<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ciencious Parliament; and I doe beleeve that when the whole body thereof is aptly and compleatly unite together in the Members, without any forcible dislocation, or false election, it is then the highest Judicatory in this Kingdome; but to say that the Parliament (statu quo nunc.) being disjoynted, severed and mangled in its members, (scarce one third part appearing) and acting by a self-seeking gladiatory and tyrannicall Power, is a lawfull and an equall Parliament; J confesse J have not so much faith as to beleve it; much lesse to thinke that they have any power obligatory to binde the Conscience of any Subject to yeeld either active or passive obedience, to any Act or Ordi<g ref="char:EOLhyphen"/>nance from them proceeding, being a meer compound of u<g ref="char:EOLhyphen"/>surpation, illegally sitting, and as illegally acting, conerary to Parliamentary power, and not as the visible Representatives of the body po<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itiqe.</p>
+               <p>Secondly J beleeve, That illegall Conventicle of men in the Parliament House, to be the onely Authors and fomentors of these unnaturall and civill Warres and Devisions; and guilty of all the innocent blood that hath been shed within this Kingdome; and that they striue to hold up their most intolle<g ref="char:EOLhyphen"/>rable tyranny, though with the losse of Three Kingdomes, as appears by their disrespects of poor death-sick Jreland, their <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lownesse in answering the Demands of Scotland, and their unconscionable and refractory Propositions to his Majestie, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ending as much to the publique Peace, as Edge-hill fight, or the murder of his Royall Person.</p>
+               <p>Thirdly J beleeve, That if this Parliament were once off of the hooks or throwne out of the Kingdoms saddle, (who have so long rid Hackney, till they have broke the backs of the
+<pb n="5" facs="tcp:64620:4"/> whole tribe of Issachar, and the Manie-asses of this Nation) and another Parliament chosen, of men whose fingers never d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>opt with blood, certain<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y our Peace <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ies before us, and all our grievances were at a period; (for it is impossib<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t the sweet sounds of Peace and joy should be heard within out walls, so long as the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e men of b ood sit pearch't abo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e us with the sword in one hand, and the Scepter in another:) provided that his Majesties Power and Rega<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l Priviledge be no wayes infring'd; but that he with them may <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ettle a l things into order, (the whee<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ate being broken by these Egyptian Charetors) so sha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l thi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> poo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> languish<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng Kingdome yet live to be the en<g ref="char:EOLhyphen"/>vie and the g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ory of the wor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d.</p>
+            </div>
+            <div n="4" type="article">
+               <head>ART. IV.</head>
+               <p>I belee<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, that thing which they call a Synod to be a thing of nothing; a company of slow pac'd Dromedaries, not good for any thing except the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>are name of an Assembly, who have so long been b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>under<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng upon the Artic<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es of Faith, that they have qui<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e lost their credit; and I be<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eeve, if their buttocks did not grow by the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r tedious junctu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es to the benches where<g ref="char:EOLhyphen"/>on they sit; that shame or good manners had long since rouz'd them from their <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>quat, who now are growne a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> shamelesse as they came brain<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>esse, having evacuated their profound witt<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in<g ref="char:EOLhyphen"/>to their deeper pockets, made a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gally-maufrey of Religion, which before was pure and sound (not needing any of their compounded antidotes) and turn'd the Hou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e of God quite out of the Windowe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</p>
+            </div>
+            <div n="5" type="article">
+               <head>ART. V.</head>
+               <p>I beleeve, That his Exce<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lency hath yet some <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ee<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of grace remain<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng in him, and that as he did well when h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> was the King Subject, so he may now doe better to be the K<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ngs ser<g ref="char:EOLhyphen"/>vant; what though hither<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ittle obedience is ob<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e? yet I wou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d have him know, that whi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>st he g<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s on hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>st<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs for remuneration of de<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rt, whi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>st he acts fide<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ity, to satisfie their ends, if he glance but on one side▪ t<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n he hath whet a sword to pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me his own head; and before his wings are too
+<pb n="7" facs="tcp:64620:4"/> much entangled in these Parliament lime-twiggs, let him be<g ref="char:EOLhyphen"/>ware, least too late repentance (with many or his so exalted brethren) make him cry, Had-I-wist.</p>
+            </div>
+            <div n="6" type="article">
+               <head>ART, VI.</head>
+               <p>I beleeve, the Army will now grow honest, the tares (the Agitators) being weeded up; and that there is no way for them to recover their Arears, but to joyne with his Majestie, who hath a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ready made a Royall Promise (beseeming such a King) whose Thought is his Word, his Word a Law, that Law un<g ref="char:EOLhyphen"/>alterab<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e; that he will performe the same.</p>
+               <p>Secondly I beleeve, That the Souldiers have more wit then to come into the City to exact or leavie their pay, their head-pieces scap'd a scouring at their first being there, it is a strong temptation to presume the second time.</p>
+            </div>
+            <div n="7" type="article">
+               <head>ART. VII.</head>
+               <p>I beleeve, That the head of Anarchy is crusht into the very braines by the unanimity of the Army, and that though Con<g ref="char:EOLhyphen"/>sciences may be countenanced, yet Heresy, Schisme and Pro<g ref="char:EOLhyphen"/>phanes shall not be continued and authorized.</p>
+            </div>
+            <div n="8" type="article">
+               <head>ART. VIII.</head>
+               <p>I beleeve, that the publike faith which lies now in Laven<g ref="char:EOLhyphen"/>ddr for the Parliaments debts, is not worth a lowse, and all those that have lent out coyne upon such usury, shall ere long have it return'd to 'em by Tom Long the Carrier.</p>
+            </div>
+            <div n="9" type="article">
+               <head>ART. IX.</head>
+               <p>I beleeve, and am verily perswaded, That the time is at hand, when the Three Kingdomes shall be linck't together in one love-knot that his Majestie shall be set againe upon his Royal Throne (if a blow prevent not) and sway the scepter of his Kingdome in Peace; that Satans Synagogue at Westminster shall be turn'd into a holy Senate, and the Devill voted out of the Parliament-Hou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, and then shall plenteousnesse walke in our streets, and our houses be filled with rejoycings; then shall
+<pb n="8" facs="tcp:64620:5"/> Cheap-side conduit run with wine, and both rich and poor drink a health, and cry, GOD save King CHARLES.</p>
+            </div>
+            <div n="10" type="article">
+               <head>ART. X.</head>
+               <p>I beleeve, That if Peters and Dell, those infernall Regi<g ref="char:EOLhyphen"/>clde<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, that Rainsborow, Martyn, and Scot, the Agents and Agitators that have conspired against the Lords Anoynted, and the Peace and happinesse of the Kingdome; be not hang'd ac<g ref="char:EOLhyphen"/>cording to their deserts, that those Foxes with their fire-brands, will set the whole Kingdome on a fresh flame; and then none shall beat me off from this belief, That the Parlia<g ref="char:EOLhyphen"/>ment sits to no other end and purpose, but to protect murder, and to councell Treason.</p>
+            </div>
+            <div n="11" type="article">
+               <head>ART. XI.</head>
+               <p>I doe beleeve, That before 12. Suns surround the earth<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> globe, that there will be such a clashing in the Army, that the noise of it will give occasion either of the weale or woe of the whole Kingdome; in the mean space (to let England see her complexion in the glasse of time.) I am afraid (not ma<g ref="char:EOLhyphen"/>king it an Article of my Beliefe) that though the King is at (a supposed) liberty, yet there is room enough in that little Le to be guilty of Royall murder; which heavens forbid.</p>
+            </div>
+            <div n="12" type="article">
+               <head>ART. XII.</head>
+               <p>I doe beleeve, That every true Subject, faithfull to his prin<g ref="char:EOLhyphen"/>ciples, loyall to his Soveraigne, aad obedient to the Lawes, with a willing heart and chearfull spirit, may make this free and full profession, without breach of Charity or hurt to Con<g ref="char:EOLhyphen"/>science, still praying for the returne of his Majestie, with safe<g ref="char:EOLhyphen"/>ty, freedome, and honor, the continuation of Parliaments (but not for Seven yeers) the purity of Religion, the establishing and exercise of wholsom Lawes, and the setling of Peace, love and Unity both amongst our selves, and all others our Chri<g ref="char:EOLhyphen"/>stian brethren.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:64620:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
